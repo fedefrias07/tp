@@ -1,7 +1,0 @@
-package mundial;
-
-public class Partido {
-
-	private  Pais pais1;
-	private  Pais pais2;
-}
